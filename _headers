@@ -1,0 +1,210 @@
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-9b7zdxqljLUXmeeCD4j+sOz5AJ9J52O3Z5sDQa/qTa0=' https://challenges.cloudflare.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; frame-src https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com https://api.avtovykup-msk.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  X-Frame-Options: DENY
+/
+  Cache-Control: public, max-age=0, must-revalidate
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate
+/minivans.html
+  Cache-Control: public, max-age=0, must-revalidate
+/assets/lead-config.js
+  Cache-Control: public, max-age=0, must-revalidate
+/assets/lead-form.js
+  Cache-Control: public, max-age=0, must-revalidate
+/assets/lead-validation.js
+  Cache-Control: public, max-age=0, must-revalidate
+/assets/images/montero-sport.480.6e8fb535ba18967e.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/montero-sport.768.a931578a56e8095e.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/montero-sport.1024.60882ea50cbd2ac4.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/montero-sport.1280.a03dd54f4a90b9c1.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/montero-sport.1600.23f637d1cdd60b39.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/montero-sport.480.5550371f4b26b14e.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/montero-sport.768.72d8a91174466009.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/montero-sport.1024.af2f77c12a6656bf.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/montero-sport.1280.992666adc9f018d5.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/montero-sport.1600.ef3021bd43e29ad6.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/caravan-hero.480.cb0040cf03ad7933.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/caravan-hero.768.0ebdcc35adf25bf4.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/caravan-hero.1024.d3b643f48765e60e.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/caravan-hero.1280.4c20f2d60099c34a.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/caravan-hero.1600.2d35efacaf2d1f2e.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/caravan-hero.480.9c1e28ab94e608b7.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/caravan-hero.768.6928cba061a1d022.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/caravan-hero.1024.87457915764b30a7.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/caravan-hero.1280.bc736b7647e76a75.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/caravan-hero.1600.bf9e4c193dfa543c.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/caravan.480.f2b12535a4388ead.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/caravan.768.ee739f7786666a68.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/caravan.1024.4cadce5cf7965e73.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/caravan.1280.80effc06b23066a1.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/caravan.1600.afa2dad70386da97.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/caravan.480.580c859e42337540.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/caravan.768.a076dfc09a5d960b.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/caravan.1024.b7573a3640e33f7b.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/caravan.1280.07979f48aa60d2d7.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/caravan.1600.bd010599ba52e2b0.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/explorer.480.48e4f53a89a588cf.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/explorer.768.2ec52a61602af3b5.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/explorer.1024.7a40844c3110e332.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/explorer.1200.55614a756b38d346.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/explorer.480.127510bc0a16d665.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/explorer.768.d3632e76a6ee9676.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/explorer.1024.0b8334a4f20ed415.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/explorer.1200.72239a44eb29345e.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/patrol.480.1f1221ab89a401c5.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/patrol.768.7c77a7d32c0845d8.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/patrol.1024.1b718195e1c4a04d.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/patrol.1280.d9e8dbfb21156485.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/patrol.1600.3a8f35d6825212f1.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/patrol.480.bf4fc9443b044db4.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/patrol.768.b55ddd29076f512f.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/patrol.1024.316f671c49ddd852.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/patrol.1280.305690c2907b7981.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/patrol.1600.fe37fbd6e5e99b4e.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/vito.480.bbdd8822aae6b444.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/vito.768.1d112c0cdeeaf1be.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/vito.1024.ab75759affea2dd9.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/vito.1280.233dea7d8c29ae7b.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/vito.480.910a8df3e69723db.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/vito.768.1eb63d4dec3c053f.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/vito.1024.953d069e18918b30.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/vito.1280.e281f25cca9b678c.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/sharan.480.af7562aaf4c37748.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/sharan.768.c7c88fbdc01769ce.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/sharan.1024.8c60fa9ea5db2738.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/sharan.1280.f8565a3460af9ef6.avif
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/avif
+/assets/images/sharan.480.cc4f5651073e478c.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/sharan.768.666ea1559dc09266.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/sharan.1024.5bc1281dea510016.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
+/assets/images/sharan.1280.2d04a432409e2dc3.webp
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/webp
